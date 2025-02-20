@@ -31,3 +31,138 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle files
+.gradle/
+**/build/
+**/captures/
+**/outputs/
+**/intermediates/
+**/generated/
+local.properties
+*.iml
+.gradle/
+.gradle/*
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+*.DS_Store
+
+# Keystore files (security reasons)
+*.jks
+*.keystore
+
+# Android Studio/IntelliJ
+*.log
+*.swp
+*.swo
+*.swn
+*.lock
+*.bak
+*.orig
+*.rej
+
+# Miscellaneous
+*.class
+*.dex
+*.apk
+*.ap_
+*.so
+*.jar
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+
+# Dependency directories
+/node_modules/
+/bower_components/
+/vendor/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Firebase
+crashlytics.properties
+app/google-services.json
+app/*.keystore
+fabric.properties
+
+# Local test and debug files
+test-output/
+debug.keystore
+
+# Coverage reports
+**/coverage/
+**/jacoco/
+
+# NDK
+obj/
+libs/
+
+# Android Lint
+lint/reports/
+lint/report.xml
+
+# Jetpack Compose previews
+.compose-cache/
+
+# Misc
+.vscode/
+*.log
+.yarn/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# MacOS
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
